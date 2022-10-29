@@ -4,3 +4,4 @@ outputs
 checkpoints
 __pycache__
 
+/data
